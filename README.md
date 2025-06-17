@@ -173,33 +173,7 @@ Built with Python's standard library, using Tkinter for the GUI and concurrent.f
 
 Designed to help users like you manage disk space by identifying large folders for cleanup.
 
-Notes on the README
-Name: I used "Folder Size Viewer" as a descriptive name for the app, avoiding "TreeSize" as requested. If you prefer a different name (e.g., "Disk Space Analyzer"), let me know.
-
-Purpose: Emphasized the app's role in helping you view folder sizes to decide which files to delete, aligning with your use case.
-
-Structure: Organized into clear sections (Features, Requirements, Installation, Usage, etc.) for ease of use.
-
-File Name: The log file is named foldersize.log to match the app's purpose. If you want a different log name, I can update it.
-
-License: Assumed MIT License for openness; if you prefer another license or no license, I can adjust.
-
-Usage Example: Included a workflow to illustrate how you might use the app to clean up disk space.
-
-Troubleshooting: Addressed common issues like permission errors and slow scans, reflecting your concern about navigating the entire PC.
-
-Next Steps
-Save the README: Copy the above content into a file named README.md in the same directory as your script (e.g., pcCleaner.py).
-
-Test the App: Ensure the app still meets your needs with the latest code (single-click navigation, double-click expansion, Up button).
-
-Feedback: If you need changes to the README (e.g., different app name, additional sections, or specific instructions) or want enhancements to the app (e.g., a path display, back/forward history, or context menu), let me know!
 
 Thank you for using the app, and I'm happy it helps you manage your disk space!
 
-explain filtering options
-
-disk cleanup tools
-
-more concise instructions
 
