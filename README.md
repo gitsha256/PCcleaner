@@ -12,7 +12,7 @@ Double-click a folder to expand it, showing its subfolders (sorted by size) with
 "Up" button to navigate to the parent directory, with root directory checks to prevent errors.
 
 Size and File Count Display:
-Shows folder sizes in human-readable formats (B, KB, MB, GB, TB).
+Shows  sizes in human-readable formats (B, KB, MB, GB, TB).
 
 Displays the number of files in each folder.
 
@@ -71,7 +71,7 @@ Navigate to the directory containing the script in your terminal or command prom
 Execute the script:
 bash
 
-python folder_size_viewer.py
+python pcCleaner.py
 
 The app window will open, displaying an empty list with the message "Select a directory to begin."
 
@@ -189,7 +189,7 @@ Usage Example: Included a workflow to illustrate how you might use the app to cl
 Troubleshooting: Addressed common issues like permission errors and slow scans, reflecting your concern about navigating the entire PC.
 
 Next Steps
-Save the README: Copy the above content into a file named README.md in the same directory as your script (e.g., folder_size_viewer.py).
+Save the README: Copy the above content into a file named README.md in the same directory as your script (e.g., pcCleaner.py).
 
 Test the App: Ensure the app still meets your needs with the latest code (single-click navigation, double-click expansion, Up button).
 
